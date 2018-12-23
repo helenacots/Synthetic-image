@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Generando código
+c:\users\u124724\downloads\a3to5_184646_183951\src\shaders\globalshader.cpp(133): warning C4715: 'GlobalShader::computeColor': no todas las rutas de acceso de control devuelven un valor
+  4 of 406 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  RTIS_V2.vcxproj -> C:\Users\U124724\Downloads\A3to5_184646_183951\VisualStudio2015\RTIS_V2\x64\Release\RTIS_V2.exe
+  RTIS_V2.vcxproj -> C:\Users\U124724\Downloads\A3to5_184646_183951\VisualStudio2015\RTIS_V2\x64\Release\RTIS_V2.pdb (Full PDB)
